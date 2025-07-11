@@ -58,7 +58,7 @@ Here's what I love working with:
 ## Beyond the Code
 
 When I'm not coding, you might find me:
-- Exploring new coffee shops in Kigali ☕
+- Exploring new coffee shops in Kigali 
 - Brainstorming ways tech can solve everyday problems
 - Connecting with other developers (the tech community is amazing!)
 - Planning my next project (I always have at least three ideas brewing)
@@ -86,7 +86,7 @@ Whether you're looking to collaborate on a project, need help with a technical c
 
 If you've made it this far, thank you for taking the time to get to know me a bit better. The developer community has been incredible to me, and I'm always eager to pay it forward.
 
-Remember: every expert was once a beginner, every professional was once an amateur, and every icon was once an unknown. Keep building, keep learning, and keep being awesome! 🌟
+Remember: every expert was once a beginner, every professional was once an amateur, and every icon was once an unknown. Keep building, keep learning, and keep being awesome! 
 
 ---
 
