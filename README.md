@@ -6,18 +6,18 @@ Welcome to my little corner of the internet! I'm so glad you stumbled upon my po
 
 You know that feeling when you solve a puzzle and everything just clicks? That's exactly how I felt when I wrote my first line of code back in 2021. What started as curiosity during the AkiraChix CodeHive program has blossomed into a genuine passion for creating solutions that make people's lives easier.
 
-I'm currently a Software Engineer Level 2 at Antara Health, where I've had the incredible opportunity to grow from an intern to someone who leads projects and mentors others. It's been quite the ride, and I'm loving every minute of it!
+I was previously a Software Engineer Level 2 at Antara Health, where I've had the incredible opportunity to grow from an intern to someone who leads projects and mentors others. It's been quite the ride, and I'm loving every minute of it!
 
 ## What I'm About
 
-I'm not just about writing code (though I do love a good debugging session with a cup of coffee ☕). I'm about:
+I'm not just about writing code (though I do love a good debugging session with a cup of coffee). I'm about:
 
 - **Building bridges** between complex technical challenges and real human needs
 - **Taking initiative** when I see gaps that need filling (my teammates know I'm always ready to jump in!)
 - **Learning continuously** - the tech world moves fast, and I love keeping up
 - **Collaborating** - some of my best work happens when bouncing ideas off brilliant teammates
 
-## 🛠My Toolkit
+## My Toolkit
 
 Here's what I love working with:
 
@@ -28,7 +28,6 @@ Here's what I love working with:
 - Tailwind CSS (makes everything look pretty without the fuss)
 
 **Backend Wizardry **
-- Node.js (JavaScript everywhere!)
 - Python & Django (for when I need that robust backend)
 - REST APIs & GraphQL (connecting all the dots)
 
