@@ -70,7 +70,7 @@ I love meeting new people and talking about everything from code to coffee to cr
 - **GitHub**: [github.com/intwaza](https://github.com/intwaza) (where the magic happens)
 - **Email**: [iintwazabelyse@gmail.com](mailto:iintwazabelyse@gmail.com) (I actually check this!)
 - **Twitter**: [@IntwazaB](https://twitter.com/IntwazaB) (for tech thoughts and random musings)
-- **Portfolio**: [Live Portfolio](https://intwaza-belyse-portfolio.netlify.app/) (see my work in action!)
+- **Portfolio**: [Live Portfolio](https://belyse-intwaza-portfolio.netlify.app/) (see my work in action!)
 
 ## What's Next?
 
